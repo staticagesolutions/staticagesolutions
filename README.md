@@ -11,9 +11,8 @@
 	in the decade.</p> 
     
  <p>I have started to work now as a Syscoin cryptocurrency developer and am bringing back the name for an organization 
- 	that is dedicated to making the Syscoin ecosystem the best and most secure it can be. We have two projects under our
- 	umbrella to start. Suscoin SUS and Uttkoin UTTKE both available on Pegasys DEX on the Syscoin NEVM network. Our first completed project was to bridge Suscoin to the UTXO chain of Syscoin to provide the highest security for long term 
- 	storage.</p>
+ 	that is dedicated to making the Syscoin ecosystem the best and most secure it can be. We began with two projects under our
+ 	umbrella but have been joined by SysLinks and DAOSYS.</p>
 		
     
     
@@ -27,28 +26,33 @@
     
 <h3>If you are interested in joining we welcome all Syscoin projects but they must have these same objectives in mind:</h3>
     
+
+Security
+
+Promoting the use of best practices, especially when it comes to security and self custody of assets, crypto and beyond
 	
-		Follow best practices always
-					
-		Use the most secure methods even if it sacrifices speed (ex: for a transfer between exchanges use PoW backed
-					
-		LTC over something like XLM that is instant but not as secure)
-					
-		Self host when possible using open source products
-					
-		Work to move projects away from centralized infrastructure like AWS
-					
-		Keep personal info secure and private (ex: use Proton mail, not gmail)
+
+Flexibility
+
+Being a collective, we collaborate under the Syscoin banner but no one is required to contribute to anything they don't want
+
+	
+Peer review
+
+Trying to normalize utilizing any product or guide to it's fullest amongst testers and other devs before putting it out to the public
+
+
+Looking forward
+
+With the layer 2 Rollux upgrade imminent, making sure that the SYS ecosystem is at it's best for those looking to adopt
+
 		
 
-
-<h4>I'm still very new to coding and development but I feel the trade between my security and infrastructure knowledge and 
-the communities skills, we can work to all make Syscoin and it's products the best they can be.</h4>
 </body>  	
 		
 <h4>Contact:</h4>
 		
-						email: staticagesolutions@proton.me
+						email: uttke@proton.me
 						phone (SMS): +1-909-666-0985
 						website: https://staticagesolutions.org
 						twitter: https://twitter.com/staticagesolutions
